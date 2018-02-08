@@ -8,7 +8,7 @@
 
 [**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang/blob/master/Document/day1808.md)
 
-[**3.** 关于Mysql数据库多表的使用](day1808-2.html)
+[**3.** 关于Mysql数据库多表的使用](https://smithding.github.io/Leowang/day1808-2.html)
 
 ### Support or Contact
 
