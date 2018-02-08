@@ -8,6 +8,8 @@
 
 [**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang/blob/master/Document/day1808.md)
 
+[**3.** 关于Mysql数据库多表的使用](https://github.com/Smithding/Leowang/blob/master/Document/day1808-2.html)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
