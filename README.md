@@ -1,40 +1,16 @@
 ## 欢迎来到我的GitHub博客
 
-You can use the [editor on GitHub](https://github.com/Smithding/Leowang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果你对知识进行了彻底的分析而非某种机械的套弄，在你脑中生成的概念与生硬的文字之间已经没有很强的相似性，我们就认为这个概念是被理解的。彻底的分析和非凡的变换，是获得真知的标志性特征。 
 
 
 
-[1.关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang/edit/master/Document/day1807.md)
+###### 
 
-### Markdown
+### 文章链接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**1.** 关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang/edit/master/Document/day1807.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Smithding/Leowang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang/edit/master/Document/day1808.md)
 
 ### Support or Contact
 
