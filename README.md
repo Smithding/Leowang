@@ -8,9 +8,9 @@
 
 
 
-[**1.** 关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang/tree/master/Document/day1827.md )
+[**1.** 关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1827.md )
 
-[**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang/tree/master/Document/day1829.md)
+[**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1829.md)
 
 
 
