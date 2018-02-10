@@ -6,17 +6,15 @@
 
 
 
-[**1.** 关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1827.md )
-
-[**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1829.md)
+1. [**1.** 关于WEB开发中Tomcat服务器和Http协议](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1827.md )
+2. [**2.** 关于xml配置文件和反射的使用](https://github.com/Smithding/Leowang-s-Blog/tree/master/Document/day1829.md)
 
 
 
 ## 非技术那些事儿
 
 
-
-+ [ 左耳朵耗子 :  程序员如何用技术变现? ](https://github.com/Smithding/Leowang-s-Blog/blob/master/Document/file/file01.md)
+[@ 左耳朵耗子 :  程序员如何用技术变现? ](https://github.com/Smithding/Leowang-s-Blog/blob/master/Document/file/file01.md)
 
 
 
