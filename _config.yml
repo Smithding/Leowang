@@ -1,4 +1,5 @@
-# Icon
+﻿# Icon
+theme: hexo-theme-laughing
 favicon: /favicon.ico
 # SEO
 keywords: Hexo, Gruntjs, Nodejs, Reactjs, Vuejs
